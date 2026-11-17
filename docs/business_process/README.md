@@ -8,4 +8,4 @@
 
 **Supporting explanation document:** [business_process_explanation.pdf](docs/business_process/business_process_explanation.pdf)
 
-**Diagram (PDF export):** [business_process_diagram.pdf](docs/business_process/business_process_diagram.pdf)
+**Diagram (PDF export):** [business_process_diagram.pdf](docs/business_process/business process diagram.pdf)
