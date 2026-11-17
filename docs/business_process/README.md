@@ -8,4 +8,4 @@
 
 **Supporting explanation document:** [business_process_explanation.pdf](docs/business_process/business )
 
-**Diagram (PDF export):** [business_process_diagram.pdf](docs/business_process/business process diagram.pdf)
+**Diagram (PDF export):** [business_process_diagram.pdf](https://github.com/anselmemahoro-cpu/anselme_29558_claimGuard/blob/25d6521857e5eaac7ad4d2e0afe5dac979303c67/docs/business_process/business%20process%20diagram.pdf)
