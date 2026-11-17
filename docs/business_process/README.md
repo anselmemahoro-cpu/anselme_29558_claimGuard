@@ -6,6 +6,6 @@
 
 **Published diagram link:** https://viewer.diagrams.net/?tags=%7B%7D&lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=ClaimGuard_Process.drawio&dark=auto#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1ofCL-Lxxh2cw6JgDhZDgW-t6pSHfBKPK%26export%3Ddownload
 
-**Supporting explanation document:** [business_process_explanation.pdf](docs/business_process/business )
+**Supporting explanation document:** [business_process_explanation.pdf](https://github.com/anselmemahoro-cpu/anselme_29558_claimGuard/blob/25d6521857e5eaac7ad4d2e0afe5dac979303c67/docs/business_process/business_process_explanation.pdf)
 
 **Diagram (PDF export):** [business_process_diagram.pdf](https://github.com/anselmemahoro-cpu/anselme_29558_claimGuard/blob/25d6521857e5eaac7ad4d2e0afe5dac979303c67/docs/business_process/business%20process%20diagram.pdf)
